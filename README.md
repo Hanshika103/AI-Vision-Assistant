@@ -139,7 +139,7 @@ Demo_App-main/
 **1. Clone the repository**
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Hanshika103/Demo_App
 ```
 
 **2. Open the project**
