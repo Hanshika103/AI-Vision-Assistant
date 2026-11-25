@@ -139,7 +139,7 @@ Demo_App-main/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/Hanshika103/Demo_App
+git clone https://github.com/Hanshika103/AI-Vision-Assistant
 ```
 
 **2. Open the project**
